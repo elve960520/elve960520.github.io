@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>熊猫实验室</title>
+        <link>https://elve960520.github.io/</link>
+        <description>Recent content on 熊猫实验室</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 02 Apr 2021 12:15:59 +0800</lastBuildDate><atom:link href="https://elve960520.github.io/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
